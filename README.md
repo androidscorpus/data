@@ -15,7 +15,7 @@ If you have any questions, please contact the paper's authors:
 - Anna Esposito: <a href="mailto:Anna.Esposito@unicampania.it">Anna.Esposito@unicampania.it</a>
 - Alessandro Vinciarelli: <a href="mailto:Alessandro.Vinciarelli@glasgow.ac.uk">Alessandro.Vinciarelli@glasgow.ac.uk</a>
 
-------
+<hr>
 
 The Corpus includes the following material:
 
@@ -40,4 +40,4 @@ Please note that the identifier nn is unique within a group, meaning that the sa
 
 In this respect, every participant can be uniquely identified through the string nn_X, where X is the character accounting for the condition (see above).
 
- 
+<hr> 
