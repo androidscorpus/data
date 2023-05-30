@@ -23,7 +23,7 @@ The Corpus includes the following material:
 - Directory "Interview-Task/audio": 116 audio files, 52 in the subdirectory "HC" and 64 in the subdirectory "PT";
 - Directory "Interview-Task/audio_clip": 874 audio files distributed over 116 subdirectories, each corresponding to one of the 116 speakers that participated in the Interview Task;
 - fold-list.csv: lists of the files to be included in each of the 5 folds used for the development of the baseline approaches;
-- SAM_EMOIS09_36_new.conf: OpenSMILE config file used for the extraction of the features from the audio files;
+- Androids.conf: OpenSMILE config file used for the extraction of the features from the audio files;
 - interview_timedata.csv: segmentation into turns of the audio data in subdirectory Interview-Task/audio;
 
 The audio files in the directory "Reading-Task" are the recordings of the participants that read the fairy tale "The Wind of the North and the Sun" by Aesop.
