@@ -7,7 +7,11 @@ A full description of the Androids Corpus can be found in the following paper:
 
 The data can be downloaded at the following link (3.69 Giga Bytes): <a href="https://www.dropbox.com/s/qi7a3bd7wo6kwim/Androids-Corpus.zip?dl=0">Androids Corpus</a>
 
-Please consider that the data should be used for research purposes only.
+By downloading the data, you accept the following Terms and Conditions:
+
+- The data must be used for research purposes only;
+- The Corpus must not be further distributed;
+- The Corpus cannot be broadcast and/or made publicly available anywehere else than here.
 
 If you have any questions, please contact the paper's authors:
 
