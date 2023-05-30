@@ -9,7 +9,7 @@ The data can be downloaded at the following link (3.69 Giga Bytes): <a href="htt
 
 By downloading the data, you accept the following Terms and Conditions:
 
-- The data must be used for research purposes only;
+- The data must be used for academic research (non-commercial) purposes only;
 - The Corpus must not be further distributed;
 - The Corpus cannot be broadcast and/or made publicly available anywehere else than here.
 
