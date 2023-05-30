@@ -11,7 +11,7 @@ Please consider that the data should be used for research purposes only.
 
 If you have any questions, please contact the paper's authors:
 
-- Fuxiang Tao: <a href="mailto:2486246T@student.gla.ac.uk">2486246T@student.gla.ac.uk</a>
+- Fuxiang Tao: <a href="mailto:Fuxiang.Tao@glasgow.ac.uk">Fuxiang.Tao@glasgow.ac.uk</a>
 - Anna Esposito: <a href="mailto:Anna.Esposito@unicampania.it">Anna.Esposito@unicampania.it</a>
 - Alessandro Vinciarelli: <a href="mailto:Alessandro.Vinciarelli@glasgow.ac.uk">Alessandro.Vinciarelli@glasgow.ac.uk</a>
 
