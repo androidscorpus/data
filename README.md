@@ -3,7 +3,7 @@ Androids Depression Corpus
 
 A full description of the Androids Corpus can be found in the following paper:
 
-<a href="https://www.dropbox.com/s/isjl1yqspo5iza4/submission.pdf?dl=0">Fuxiang Tao, Anna Esposito and Alessandro Vinciarelli, "The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection", Proceedings of Interspeech, 2023</a>
+<a href="https://www.dropbox.com/s/2rurxlh70ihfki4/Androids-Corpus.zip?dl=0">Fuxiang Tao, Anna Esposito and Alessandro Vinciarelli, "The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection", Proceedings of Interspeech, 2023</a>
 
 The data can be downloaded at the following link (3.69 Giga Bytes): <a href="https://www.dropbox.com/s/qi7a3bd7wo6kwim/Androids-Corpus.zip?dl=0">Androids Corpus</a>
 
